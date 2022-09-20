@@ -4,7 +4,7 @@ A java based application to solve the following problem.
 ### Problem
 Given a 2D array, Traverse the array in the pattern below and print the numbers along the path.
 
-![boxplot_img](file:./assets/spiral.png) 
+![Alt text](./assets/spiral.png) 
 
 so for input 
 ```java
